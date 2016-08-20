@@ -16,7 +16,7 @@
  height:470px;
  width:120px;
  }
+background-image:url(ava7.png);
 #jpg{
-background-image:url(../ava7patterns_pattern_1840.png);
 background-repeat:repeat-x;
 }

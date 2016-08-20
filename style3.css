@@ -1,0 +1,21 @@
+body {
+	background-color: #78C9FF;
+}
+p {
+	color: #E7C800
+}
+#comedy {
+	background-color: #FF000C;
+}
+#header {
+	background-color: #E7C800;
+}
+#menu {
+	background-color: #D0CED3;
+	float: left;
+	height: 470px;
+	width: 120px;
+}
+#jpg {
+	background-image: url(ava7.png);
+}
