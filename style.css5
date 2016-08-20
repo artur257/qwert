@@ -1,0 +1,21 @@
+  body{
+   background-color:#78C9FF;
+ }
+ p{
+ color:#E7C800;
+ }
+ #text {
+  background-color:#000000;
+ }
+ table{
+ border-collapse:collapse;
+ }
+ #table{
+mrgin:0px 600px 0px 600px;
+ }
+ #name{
+ color:#FF2600;
+ }
+ th {
+ background-color:#80FF5A;
+ }
